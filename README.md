@@ -27,4 +27,5 @@ Go through the Jupyter notebook which covers:
 - Using Yolov8
 - Preparing a dataset for a few pose classes
 - Training a Keras classification model
+    - For model tracking, there is an optional integration with MLflow
 - Inference on images and videos
